@@ -1,0 +1,50 @@
+{
+	"author-id-1" : { 	
+		"first": "Biju", 
+		"middle": [], 
+		"last": "George", 
+		"suffix": "", 
+		"affiliation": {
+			"laboratory": "", 
+			"institution": "Christian Medical College", 
+			"location": {
+				"settlement": "Vellore, Kolkata", 
+				"country": "India, India"
+					}
+				},
+		"email": "",
+		"paper-id1" : "abstract",
+		"paper-id2" : "abstract",
+		"paper-id3" : "abstract",
+		"paper-id4" : "abstract",
+		"paper-id5" : "abstract",
+		"paper-id6" : "abstract",
+		"paper-id7" : "abstract",
+		"paper-id8" : "abstract" 	
+	},
+	"author-id-2" : {
+		"first": "Sanjay", 
+		"middle": [], 
+		"last": "Bhattacharya", 
+		"suffix": "", 
+		"affiliation": {
+			"laboratory": "", 
+			"institution": "Christian Medical College", 
+			"location": {
+				"settlement": "Vellore, Kolkata", 
+				"country": "India, India"
+						}
+				}, 
+		"email": "",
+		"paper-id1" : "abstract",
+		"paper-id2" : "abstract",
+		"paper-id3" : "abstract",
+		"paper-id4" : "abstract",
+		"paper-id5" : "abstract",
+		"paper-id6" : "abstract",
+		"paper-id7" : "abstract",
+		"paper-id8" : "abstract" 
+	}
+}
+
+
