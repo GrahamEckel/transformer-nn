@@ -1,2 +1,2 @@
 # transformer-nn
-Using Covid data and BERT to do stuff with words
+Using Covid data and math to do stuff with words
