@@ -1,0 +1,19 @@
+S2 Query Fields:
+- offset: enumerate start
+- limit: enumerate end (max 100)
+- paperId - Always included
+- authorId - Always included
+- name - Always included
+- title - Included if no fields are specified
+- authors - Up to 500 will be returned
+- externalIds
+- url
+- abstract
+- venue
+- year
+- referenceCount
+- citationCount
+- influentialCitationCount
+- isOpenAccess
+- fieldsOfStudy
+- s2FieldsOfStudy
